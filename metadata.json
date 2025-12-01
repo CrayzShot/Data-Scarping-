@@ -1,0 +1,5 @@
+{
+  "name": "Maps Data Extractor",
+  "description": "A modern React alternative to Python/Selenium scraping. This application uses the Google Gemini API with Google Maps Grounding to search, extract, and export business data (Name, Address, Rating, etc.) directly to CSV.",
+  "requestFramePermissions": []
+}
